@@ -35,7 +35,7 @@ cd IATinyFish
 El proyecto incluye las propiedades configuradas en `gradle.properties`:
 ```properties
 useRemoteDeals=true
-edgeRuntimeBaseUrl=https://btkjntkvrbqjldncnzrm.supabase.co/functions/v1/search-products
+edgeRuntimeBaseUrl=https://YOUR_URL_SUPABASE.supabase.co/functions/v1/search-products
 ```
 Si deseas probar la función en Supabase localmente, crea el archivo `supabase/.env.production.local` con:
 ```env
