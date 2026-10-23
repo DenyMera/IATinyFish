@@ -1,0 +1,12 @@
+{
+  "name": "iatinyfish",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Supabase CLI & Edge Functions setup for IATinyFish",
+  "scripts": {
+    "supabase": "supabase"
+  },
+  "devDependencies": {
+    "supabase": "^1.226.4"
+  }
+}
