@@ -20,4 +20,3 @@ node_modules/
 .env.*
 .supabase/
 supabase/.env.production.local
-edgeRuntimeBaseUrl
