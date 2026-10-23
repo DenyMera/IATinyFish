@@ -291,7 +291,7 @@ private fun FishMark() {
 
 @Composable
 private fun DiscoveryHome(topPadding: Dp, onSuggestionClick: (String) -> Unit) {
-    val suggestions = listOf("iPhone 15", "PlayStation 5", "Laptop Gamer", "Audífonos Bluetooth")
+    val suggestions = listOf("Nintendo Switch OLED", "PlayStation 5", "Laptop Gamer", "Audífonos Bluetooth")
     Column(
         modifier = Modifier
             .fillMaxSize()
